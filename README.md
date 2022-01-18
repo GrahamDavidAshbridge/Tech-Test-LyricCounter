@@ -12,7 +12,7 @@
 
 **In IDE (Options)**
 1. As above using terminal
-2. Set environmental variable of -a "Artist Name" in IDE build options.
+2. Set program argument of -a "Artist Name" in IDE build options.
 
 ![image](https://user-images.githubusercontent.com/69345270/149851007-c37df90b-545f-4104-a390-684b2837da78.png)
 
