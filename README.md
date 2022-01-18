@@ -27,9 +27,6 @@
 - Implemented integration tests using wiremock.net
 - Improved logging away from a local file.
 
-# Time Spent
-
-2.5 to 3 hours.
 
 # Dependencies
 - .Net 6
